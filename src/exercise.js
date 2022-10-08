@@ -1,3 +1,3 @@
-export function pascalTriangle(number) {
+export function pascalTriangle(linNumber) {
   // Tu código aquí 👈
 }
