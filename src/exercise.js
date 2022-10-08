@@ -1,3 +1,3 @@
-export function runCode(arrayA, arrayB) {
+export function pascalTriangle(number) {
   // Tu código aquí 👈
 }
