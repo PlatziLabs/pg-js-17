@@ -7,12 +7,11 @@ import { pascalTriangle } from "./exercise";
   <p>Number:</p>
   <p><input placeholder="Digita el número" value="0" id="number" /></p>
   <p><button type="button" id="btn">Run Code</button></p>
-  <pre><code id="rta"></code></pre></p>
+  <p><pre><code id="rta"></code></pre></p>
   `;
 
   const rtaElement = document.getElementById('rta');
   const btnElement = document.getElementById('btn');
-  const rtaElement = document.getElementById('rta');
   const inputNumber = document.getElementById('number');
 
   try {
